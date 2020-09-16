@@ -1,0 +1,55 @@
+[33mcommit e04e70b611e41cb574103c538db1a09fcb0c2b4f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: korea3500 <bag0437@naver.com>
+Date:   Wed Sep 16 12:10:19 2020 +0900
+
+    insert title tag[insert]
+
+[33mcommit 80b8bc889fd5f0b37da2b0ffe53a6d4deef89d85[m
+Author: korea3500 <bag0437@naver.com>
+Date:   Wed Sep 16 12:06:41 2020 +0900
+
+    create new html file[new]
+
+[33mcommit e741615b835f3e2f445025adf294e2ffb44c2bde[m
+Author: korea3500 <bag0437@naver.com>
+Date:   Wed Sep 16 12:05:24 2020 +0900
+
+    create new file[new example python]
+
+[33mcommit 975d07e6da76b0ddbcd9e91ff10bd4d2973a32da[m
+Author: korea3500 <bag0437@naver.com>
+Date:   Wed Sep 16 12:03:40 2020 +0900
+
+    create new file [new]
+
+[33mcommit 4ca6ba2dc0a9bdc40b817ddbf0e4283cf154ecb2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: korea3500 <70628794+korea3500@users.noreply.github.com>
+Date:   Wed Sep 16 11:26:57 2020 +0900
+
+    Updating program layout
+
+[33mcommit a7d2a9de6210426871809befd640045546ab4d62[m
+Author: korea3500 <70628794+korea3500@users.noreply.github.com>
+Date:   Wed Sep 16 11:11:31 2020 +0900
+
+    Create 절댓값 함수 작성
+
+[33mcommit 7bf47ac37e3e4353bc32ad49d39c984c11d2eab5[m
+Author: korea3500 <70628794+korea3500@users.noreply.github.com>
+Date:   Wed Sep 16 11:00:23 2020 +0900
+
+    Update hello 문장 출력
+
+[33mcommit 773fb8569fcba475c9d4b3ba9d9353857f15f3c1[m
+Author: korea3500 <70628794+korea3500@users.noreply.github.com>
+Date:   Wed Sep 16 10:57:41 2020 +0900
+
+    Create firstExam.c
+    
+    C 구조 기본 프로그램 생성
+
+[33mcommit c3205617bd723021566ef891e85cbd46a391d79a[m
+Author: korea3500 <70628794+korea3500@users.noreply.github.com>
+Date:   Wed Sep 16 10:53:57 2020 +0900
+
+    Initial commit
